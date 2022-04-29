@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SusanLenguya
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...LinkedIn
+ Hi, I’m @Susan Lenguya
+👀 I’m interested in building scalable systems,backend & frontend. 
+🌱 I’m currently Frontend Developer @Native Coders
 
 <!---
 SusanLenguya/SusanLenguya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
